@@ -1,0 +1,30 @@
+@import "normalize.css";
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    justify-self: center;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 1rem;
+    justify-self: center;
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+img {
+    width: 20rem;
+    justify-self: center;
+}
